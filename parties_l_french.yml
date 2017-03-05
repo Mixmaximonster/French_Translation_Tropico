@@ -1,4 +1,4 @@
-﻿l_french:
+l_french:
  communism:0 "communiste"
  communism_noun:0 "Communisme"
  democratic:0 "démocratique"
@@ -486,20 +486,7 @@
  PAK_communism_party:0 "Parti socialiste du Pakistan"
  PAK_neutrality_party:0 "Ligue musulmane"
 
- TRO_fascism_party:0 "The Penultimo Party"
- TRO_democratic_party:0 "Democratic Presidente Supporters"
- TRO_communism_party:0 "Tropican People's Presidente Party"
- TRO_neutrality_party:0 "Tropican Isolation Party"
-
-######################
-###  TO BE ERASED  ###
-######################
-# SPA_democratic_party:0 "IR"
-# SPA_democratic_party_long:0 "Izquierda Republicana"
-# SPA_fascism_party:0 "Falange Española"
-# SPA_communism_party:0 "PCE"
-# SPA_communism_party_long:0 "Partido Comunista de España"
-# SPA_neutrality_party:0 "PRR"
-# SPA_neutrality_party_long:0 "Partido Republicano Radical"
-# VIC_neutrality_party:0 "Régime de Vichy"
-# VIC_neutrality_party_long:0 "Régime de Vichy"
+ TRO_fascism_party:0 "Parti de Penultimo"
+ TRO_democratic_party:0 "Supporters Démocrates du Présidente"
+ TRO_communism_party:0 "People's Presidente Parti Tropiquien Populaire du Présidente"
+ TRO_neutrality_party:0 "Parti Isolationniste Tropiquien"
