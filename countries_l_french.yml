@@ -1,4 +1,4 @@
-﻿l_french:
+l_french:
  GER_fascism:0 "Reich allemand"
  GER_fascism_DEF:0 "Le Reich allemand"
  GER_democratic:0 "République d'Allemagne"
@@ -1380,33 +1380,13 @@
 
  TRO_fascism:0 "Tropico"
  TRO_fascism_DEF:0 "Tropico"
- TRO_democratic:0 "Tropican Republic"
- TRO_democratic_DEF:0 "The Tropican Republic"
+ TRO_democratic:0 "République Tropiquienne"
+ TRO_democratic_DEF:0 "La République Tropiquienne"
  TRO_neutrality:0 "Tropico"
  TRO_neutrality_DEF:0 "Tropico"
- TRO_communism:0 "Tropican People's Republic"
- TRO_communism_DEF:0 "The Tropican People's Republic"
- TRO_fascism_ADJ:0 "Tropican"
- TRO_democratic_ADJ:0 "Tropican"
- TRO_neutrality_ADJ:0 "Tropican"
- TRO_communism_ADJ:0 "Tropican"
-
-######################
-###  TO BE ERASED  ###
-######################
-# VIC_fascism:0 "France de Vichy"
-# VIC_democratic:0 "France de Vichy"
-# VIC_neutrality:0 "France de Vichy"
-# VIC_communism:0 "France de Vichy"
-# VIC_fascism_ADJ:0 "vichiste"
-# VIC_democratic_ADJ:0 "vichiste"
-# VIC_neutrality_ADJ:0 "vichiste"
-# VIC_communism_ADJ:0 "vichiste"
-# SPA_fascism:0 "Espagne nationaliste"
-# SPA_democratic:0 "Espagne nationaliste"
-# SPA_neutrality:0 "Espagne"
-# SPA_communism:0 "Espagne nationaliste"
-# SPA_fascism_ADJ:0 "espagnol(e)"
-# SPA_neutrality_ADJ:0 "espagnol(e)"
-# SPA_democratic_ADJ:0 "espagnol(e)"
-# SPA_communism_ADJ:0 "espagnol(e)"
+ TRO_communism:0 "République Populaire Tropiquienne"
+ TRO_communism_DEF:0 "La République Populaire Tropiquienne"
+ TRO_fascism_ADJ:0 "Tropiquien"
+ TRO_democratic_ADJ:0 "Tropiquien"
+ TRO_neutrality_ADJ:0 "Tropiquien"
+ TRO_communism_ADJ:0 "Tropiquien"
